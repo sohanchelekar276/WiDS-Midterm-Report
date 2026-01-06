@@ -3,6 +3,8 @@
 ## Assignment 1
 I will document my learning procedure and the solutions for the first assignment and the first week. This assignment majorly focused on the first 2 pillars of DS: numerical computation by Numpy and data manipulation using Pandas. On top of that, we used the Matplotlib to visualise the trends in video game sales.
 
+
+
 **Part 1: With Numpy**
 
 The first part of the assignment helped me understand how to handle multidimensional arrays effectively without using redundant Python loops for each thing.
